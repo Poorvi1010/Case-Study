@@ -1,0 +1,52 @@
+
+.Heading
+{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    background-color: red;
+    margin-top: 0px;
+    top: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.Head
+{
+height: 150px;
+background-color: red;
+border-radius: 10px;
+}
+
+
+.Case1
+{
+    background-color: white;
+    border-radius: 28px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 50%;
+    float: none;
+}
+img
+{
+  width: 350px;
+  height: 350px;
+  border-radius: 28px;
+  padding-left:0;
+}
+
+.Image1
+{
+    float: left;
+}
+
+body
+{
+  background-color: rgb(29, 28, 28); 
+
+}
+
+.Name
+{
+text-align: right;
+}
